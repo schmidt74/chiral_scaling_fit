@@ -1,7 +1,7 @@
 ## Readme
 This is an exercise of a chiral scaling fit. 
 We fit the scaling function of the order parameter f_G(z) to data of the chiral condensate in (2+1)-flavor QCD. 
-The fit uses the Shofield parametrization of the scaling function. 
+The fit uses the Shofield parametrization [1] of the scaling function. 
 The data that is published with this repository was used in [2] and has been published in the corresponding supplemental meatrieal [3].
 the code contains parts that have to be adjusted according to the exercises. 
 A detaild description of the exercises are given in "description.pdf"
